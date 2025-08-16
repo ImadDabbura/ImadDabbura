@@ -52,8 +52,6 @@ Feel free to reach out!
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ImadDabbura&show_icons=true&theme=dracula)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImadDabbura&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ### 🏆 Core Principles
 
