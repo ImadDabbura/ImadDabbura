@@ -36,7 +36,7 @@ Tiny-PyTorch — Lift the hood on deep learning. Build Tensors, autograd, and CU
 - 🏗️ [The Production ML Survival Guide](https://imaddabbura.github.io/posts/mlsys/designing-ml-systems.html)
 - ⚡ [Building GPT(2/3) from Scratch: Turning Theory into a Working Transformer](https://imaddabbura.github.io/posts/nlp/GPT2-From-Scratch.html)
 - 🔍 [Hard Leassons in Shipping AI/ML Projects](https://imaddabbura.github.io/posts/product-management/shipping-software-projects.html)
-
+- 🧩 [Understand, Then Build](https://imaddabbura.github.io/posts/problem-solving/understanding-the-problem.html)
 *Check out more on [my blog](https://imaddabbura.github.io/)*
 
 ### 🤝 Let's Connect
