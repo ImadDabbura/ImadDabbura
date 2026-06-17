@@ -2,7 +2,7 @@
 
 ## 🚀 Making ML Systems Useful & Go Brrr Since [2015]
 
-I'm a seasoned AI Scientist/Engineer with a passion for modeling relationships between entities and building machine learning systems that actually work in the real world. Currently leading AI, ML, and Data Science teams to deliver scalable GenAI applications and robust ML systems serving millions of users.
+I'm a seasoned AI Scientist with a passion for modeling relationships between entities and building machine learning systems that actually work in the real world. Currently leading AI, ML, and Data Science teams to deliver scalable GenAI applications and robust ML systems serving millions of users.
 
 ### 🎯 What I Do
 
