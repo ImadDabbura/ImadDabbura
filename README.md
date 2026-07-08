@@ -1,52 +1,55 @@
 # Hi, I'm Imad Dabbura 👋
 
-## 🚀 Making ML Systems Useful & Go Brrr Since [2015]
+## 🔬 AI Scientist: Understanding AI by Building It from Scratch
 
-I'm a seasoned AI Scientist with a passion for modeling relationships between entities and building machine learning systems that actually work in the real world. Currently leading AI, ML, and Data Science teams to deliver scalable GenAI applications and robust ML systems serving millions of users.
+I'm an AI Scientist with a decade of experience across smart devices, healthcare, and enterprise AI, currently leading AI, ML, and Data Science teams delivering scalable GenAI applications and robust ML systems serving millions of users. The best way I've found to truly understand something is to derive the math, write the code, and dig into every layer: no black boxes, no hand-waving. Everything I learn becomes a public artifact, whether it's a derivation, an annotated implementation, a paper breakdown, or an open-source tool.
 
 ### 🎯 What I Do
 
-- **Lead & Build**: Guide cross-functional teams in developing production-ready AI/ML systems across multiple industries
-- **Write & Share**: Author in-depth technical articles exploring ML/DS/AI theory, internals, and practical insights on [my blog](https://imaddabbura.github.io/)
-- **Create & Contribute**: Actively contribute to open source, believing that knowledge should be freely accessible
-- **Mentor & Grow**: Passionate about developing talent, both within my teams and the broader tech community
-- **Optimize & Scale**: Obsessed with computational efficiency and making infrastructure sing
+- **Lead & Ship**: Guide cross-functional teams in developing production-ready AI/ML and GenAI systems serving millions of users across multiple industries
+- **Derive & Build**: Work through ML's mathematical foundations from first principles and rebuild the machinery of modern deep learning from scratch (GPT-2, LSTMs, transformers, a PyTorch-like framework), with every line annotated with the reasoning behind it
+- **Write & Share**: Author long-form posts, mathematical deep dives, and structured paper breakdowns on [my blog](https://imaddabbura.github.io/). Writing is how the understanding forms, not just how it gets reported
+- **Contribute**: Actively open-source what I build, believing that knowledge should be freely accessible
+- **Mentor & Teach**: Develop talent within my teams and the broader community. Teaching is how the learning happens
+- **Apply**: Distill a decade of battle-tested lessons on what actually works when models leave the notebook and hit production
 
 ### 💡 Current Focus
 
 - 🤖 Building scalable and reliable GenAI applications for massive user bases
-- 📊 Architecting ML systems that balance innovation with production stability
-- ⚡ Exploring computational efficiency improvements in ML pipelines
-- 🔧 Developing tools that make ML practitioners' lives easier
+- 📐 Rebuilding the mathematical anatomy of learning from the ground up: probability, optimization, information theory, and learning theory
+- 🔬 From-scratch, annotated implementations of the systems behind modern deep learning
+- 📄 Structured breakdowns of foundational and influential papers, distilled into what matters and why
+- 🛠️ Open-source tools that accelerate ML experimentation
 
 ### 🛠️ Featured Projects
+
+#### 🔬 **[tiny-pytorch](https://github.com/ImadDabbura/tiny-pytorch)**
+Lift the hood on deep learning. Build Tensors, autograd, and CUDA backends from scratch, because you don't understand it until you can rebuild it.
 
 #### 📦 **[cmn_ai](https://github.com/ImadDabbura/cmn_ai)**
 Most ML projects fail slowly… because iteration is slow.
 
 `cmn_ai` kills the boilerplate so you can go from idea → experiment → result in hours, not weeks.
 
-#### 🔬 **[tiny-pytorch](https://github.com/ImadDabbura/tiny-pytorch)** 
-Tiny-PyTorch — Lift the hood on deep learning. Build Tensors, autograd, and CUDA backends from scratch.
-
 ### 📝 Popular Articles
 
-- 🚀 [Make ML Systems Ship Again](https://imaddabbura.github.io/posts/mlsys/improving-mlsys-theory-of-constraint.html)
-- 🧠 [Attention Is All You Need… But Here’s the Rest](https://imaddabbura.github.io/posts/nlp/Transformer-Architecture-Explained.html)
-- 🏗️ [The Production ML Survival Guide](https://imaddabbura.github.io/posts/mlsys/designing-ml-systems.html)
+- 🧠 [Attention Is All You Need… But Here's the Rest](https://imaddabbura.github.io/posts/nlp/Transformer-Architecture-Explained.html)
 - ⚡ [Building GPT(2/3) from Scratch: Turning Theory into a Working Transformer](https://imaddabbura.github.io/posts/nlp/GPT2-From-Scratch.html)
-- 🔍 [Hard Leassons in Shipping AI/ML Projects](https://imaddabbura.github.io/posts/product-management/shipping-software-projects.html)
 - 🧩 [Understand, Then Build](https://imaddabbura.github.io/posts/problem-solving/understanding-the-problem.html)
+- 🚀 [Make ML Systems Ship Again](https://imaddabbura.github.io/posts/mlsys/improving-mlsys-theory-of-constraint.html)
+- 🏗️ [The Production ML Survival Guide](https://imaddabbura.github.io/posts/mlsys/designing-ml-systems.html)
+- 🔍 [Hard Lessons in Shipping AI/ML Projects](https://imaddabbura.github.io/posts/product-management/shipping-software-projects.html)
 
 *Check out more on [my blog](https://imaddabbura.github.io/)*
 
 ### 🤝 Let's Connect
 
-I believe in the power of community and collaboration. Whether you're:
-- Looking for mentorship in ML/AI
-- Interested in contributing to my projects
-- Want to discuss recent advancement in ML/AI
-- Have questions about scaling ML systems
+I'm always looking to improve and tailor what I write and build. Whether you:
+
+- Have a correction, question, or suggestion about something I wrote
+- Want to discuss a paper, a derivation, or a from-scratch build
+- Are interested in contributing to my open-source projects
+- Are learning ML from first principles and want pointers
 
 Feel free to reach out!
 
@@ -59,11 +62,12 @@ Feel free to reach out!
 
 ```python
 principles = {
+    "first_principles": "If I can't derive it, I don't understand it",
+    "build_from_scratch": "No black boxes - rebuild it layer by layer",
+    "write_to_learn": "Writing is how understanding forms, not how it's reported",
+    "timelessness": "Invest in what will still matter in 50 years",
     "open_source": "Everything I build should be accessible",
-    "mentorship": "Lifting others as we climb",
-    "efficiency": "Make it work, make it right, make it fast",
-    "pragmatism": "Theory is great, but does it work at scale?",
-    "curiosity": "Always learning, always building"
+    "pragmatism": "Theory is great, but does it survive production?"
 }
 ```
 
