@@ -78,8 +78,4 @@ principles = {
 - 📝 [Blog](https://imaddabbura.github.io/)
 - 📧 [Email](mailto:imad.dabbura@hotmail.com)
 
----
-
-*"The best way to understand something is to build it from scratch, then make it go brrr."*
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ImadDabbura&color=blue&theme=dracula)
