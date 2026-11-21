@@ -1,7 +1,5 @@
 # Hi, I'm Imad Dabbura 👋
 
-## AI Scientist: Understanding AI by Building It from Scratch
-
 I'm an AI Scientist with a decade of experience across smart devices, healthcare, and enterprise AI, currently leading AI, ML, and Data Science teams delivering scalable GenAI applications and robust ML systems serving millions of users. The best way I've found to truly understand something is to derive the math, write the code, and dig into every layer: no black boxes, no hand-waving. Everything I learn becomes a public artifact, whether it's a derivation, an annotated implementation, a paper breakdown, or an open-source tool.
 
 ### What I Do
