@@ -1,10 +1,10 @@
 # Hi, I'm Imad Dabbura 👋
 
-## 🔬 AI Scientist: Understanding AI by Building It from Scratch
+## AI Scientist: Understanding AI by Building It from Scratch
 
 I'm an AI Scientist with a decade of experience across smart devices, healthcare, and enterprise AI, currently leading AI, ML, and Data Science teams delivering scalable GenAI applications and robust ML systems serving millions of users. The best way I've found to truly understand something is to derive the math, write the code, and dig into every layer: no black boxes, no hand-waving. Everything I learn becomes a public artifact, whether it's a derivation, an annotated implementation, a paper breakdown, or an open-source tool.
 
-### 🎯 What I Do
+### What I Do
 
 - **Lead & Ship**: Guide cross-functional teams in developing production-ready AI/ML and GenAI systems serving millions of users across multiple industries
 - **Derive & Build**: Work through ML's mathematical foundations from first principles and rebuild the machinery of modern deep learning from scratch (GPT-2, LSTMs, transformers, a PyTorch-like framework), with every line annotated with the reasoning behind it
@@ -13,7 +13,7 @@ I'm an AI Scientist with a decade of experience across smart devices, healthcare
 - **Mentor & Teach**: Develop talent within my teams and the broader community. Teaching is how the learning happens
 - **Apply**: Distill a decade of battle-tested lessons on what actually works when models leave the notebook and hit production
 
-### 💡 Current Focus
+### Current Focus
 
 - 🤖 Building scalable and reliable GenAI applications for massive user bases
 - 📐 Rebuilding the mathematical anatomy of learning from the ground up: probability, optimization, information theory, and learning theory
@@ -21,12 +21,12 @@ I'm an AI Scientist with a decade of experience across smart devices, healthcare
 - 📄 Structured breakdowns of foundational and influential papers, distilled into what matters and why
 - 🛠️ Open-source tools that accelerate ML experimentation
 
-### 🛠️ Featured Projects
+### Featured Projects
 
-#### 🔬 **[tiny-pytorch](https://github.com/ImadDabbura/tiny-pytorch)**
+#### **[tiny-pytorch](https://github.com/ImadDabbura/tiny-pytorch)**
 Lift the hood on deep learning. Build Tensors, autograd, and CUDA backends from scratch, because you don't understand it until you can rebuild it.
 
-#### 📦 **[cmn_ai](https://github.com/ImadDabbura/cmn_ai)**
+#### **[cmn_ai](https://github.com/ImadDabbura/cmn_ai)**
 Most ML projects fail slowly… because iteration is slow.
 
 `cmn_ai` kills the boilerplate so you can go from idea → experiment → result in hours, not weeks.
