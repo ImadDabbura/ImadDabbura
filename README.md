@@ -61,11 +61,9 @@ Feel free to reach out!
 ```python
 principles = {
     "first_principles": "If I can't derive it, I don't understand it",
-    "build_from_scratch": "No black boxes - rebuild it layer by layer",
+    "build_from_scratch": "Build things layer by layer (no black boxes)",
     "write_to_learn": "Writing is how understanding forms, not how it's reported",
-    "timelessness": "Invest in what will still matter in 50 years",
     "open_source": "Everything I build should be accessible",
-    "pragmatism": "Theory is great, but does it survive production?"
 }
 ```
 
