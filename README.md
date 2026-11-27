@@ -51,7 +51,7 @@ I'm always looking to improve and tailor what I write and build. Whether you:
 
 Feel free to reach out!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/imaddabbura/)
-- 🐦 [Twitter/X](https://x.com/ImadPhd)
-- 📝 [Blog](https://imaddabbura.github.io/)
-- 📧 [Email](mailto:imad.dabbura@hotmail.com)
+<a href="[https://twitter.com/mervenoyann](https://x.com/ImadPhd)" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/imaddabbura/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:imad.dabbura@hotmail.com"><img alt="Contact" src="https://img.shields.io/badge/email-%2324292e.svg?&style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+<a href="https://imaddabbura.github.io/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-%23F06529.svg?&style=for-the-badge&logo=quarto&logoColor=white" /></a>
