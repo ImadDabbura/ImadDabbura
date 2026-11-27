@@ -47,31 +47,11 @@ I'm always looking to improve and tailor what I write and build. Whether you:
 - Have a correction, question, or suggestion about something I wrote
 - Want to discuss a paper, a derivation, or a from-scratch build
 - Are interested in contributing to my open-source projects
-- Are learning ML from first principles and want pointers
+- Are learning ML/AI from first principles and want pointers
 
 Feel free to reach out!
-
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ImadDabbura&show_icons=true&theme=dracula)
-
-
-### 🏆 Core Principles
-
-```python
-principles = {
-    "first_principles": "If I can't derive it, I don't understand it",
-    "build_from_scratch": "Build things layer by layer (no black boxes)",
-    "write_to_learn": "Writing is how understanding forms, not how it's reported",
-    "open_source": "Everything I build should be accessible",
-}
-```
-
-### 🔗 Find Me Around the Web
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/imaddabbura/)
 - 🐦 [Twitter/X](https://x.com/ImadPhd)
 - 📝 [Blog](https://imaddabbura.github.io/)
 - 📧 [Email](mailto:imad.dabbura@hotmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ImadDabbura&color=blue&theme=dracula)
